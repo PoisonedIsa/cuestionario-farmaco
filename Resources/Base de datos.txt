@@ -1085,4 +1085,204 @@ D) Trazodona y Selegilina
 Respuesta correcta: C) Brexanolona y Zuranolona
 Justificación: La diapositiva "Nuevos Fármacos en Psiquiatría" cita el artículo de Manrique Sauma Montes de Oca y menciona explícitamente "brexanolona y zuranolona para depresión posparto".
 
+PREGUNTA 1
+Según el documento, ¿cuál es una característica fundamental de las vitaminas en el cuerpo humano?
+A) Son compuestos inorgánicos que proporcionan grandes cantidades de energía celular.
+B) Pueden ser sintetizadas en cantidades suficientes por el organismo sin necesidad de la dieta.
+C) Son compuestos orgánicos esenciales que no pueden ser sintetizados en cantidades suficientes y deben obtenerse de la dieta.
+D) Son proteínas estructurales que forman los músculos y huesos.
+
+Respuesta correcta: C) Son compuestos orgánicos esenciales que no pueden ser sintetizados en cantidades suficientes y deben obtenerse de la dieta.
+Justificación: En la introducción se define explícitamente que las vitaminas son compuestos orgánicos esenciales para el funcionamiento del cuerpo humano, pero que no pueden ser sintetizados en cantidades suficientes, por lo que deben obtenerse a través de la dieta.
+
+PREGUNTA 2
+¿Qué enfermedad se menciona como consecuencia directa de la deficiencia nutricional de vitamina C?
+A) Raquitismo
+B) Escorbuto
+C) Pelagra
+D) Beriberi
+
+Respuesta correcta: B) Escorbuto
+Justificación: La lámina sobre la importancia de las vitaminas menciona que estas ayudan a prevenir deficiencias nutricionales como el escorbuto, indicando entre paréntesis que es por deficiencia de vitamina C.
+
+PREGUNTA 3
+¿Dónde se almacenan principalmente las vitaminas clasificadas como liposolubles en el cuerpo humano?
+A) En el plasma sanguíneo y los glóbulos rojos.
+B) En el hígado y en los tejidos grasos del cuerpo.
+C) En el músculo esquelético y el corazón.
+D) No se almacenan, se excretan rápidamente por la orina.
+
+Respuesta correcta: B) En el hígado y en los tejidos grasos del cuerpo.
+Justificación: La clasificación general de las vitaminas establece que las vitaminas liposolubles (A, D, E, K) son solubles en grasas y se almacenan en el hígado y en los tejidos grasos del cuerpo.
+
+PREGUNTA 4
+¿Qué vitamina del complejo hidrosoluble es la única que tiene una capacidad de almacenamiento significativa en el hígado, a diferencia del resto de su grupo?
+A) Vitamina C
+B) Vitamina B1
+C) Vitamina B12
+D) Vitamina B3
+
+Respuesta correcta: C) Vitamina B12
+Justificación: Al definir las vitaminas hidrosolubles, el documento señala de manera específica que "no se almacenan en el cuerpo (excepto la B12 en el hígado)", por lo que necesitan consumo constante.
+
+PREGUNTA 5
+¿Cuál es uno de los principales efectos adversos asociados al consumo de altas dosis de Vitamina C (Ácido Ascórbico)?
+A) Ceguera nocturna.
+B) Cálculos renales y trastornos gastrointestinales.
+C) Hepatotoxicidad severa.
+D) Hemorragias por interferencia con la coagulación.
+
+Respuesta correcta: B) Cálculos renales y trastornos gastrointestinales.
+Justificación: La tabla correspondiente a la Vitamina C indica que, en altas dosis, los efectos adversos de esta vitamina incluyen cálculos renales y trastornos gastrointestinales.
+
+PREGUNTA 6
+¿Qué patologías o síndromes neurológicos severos están asociados a la deficiencia de Vitamina B1 (Tiamina)?
+A) Beriberi y Síndrome de Wernicke-Korsakoff.
+B) Anemia perniciosa y daño de la mielina.
+C) Escorbuto y sangrado de mucosas.
+D) Ceguera nocturna y xeroftalmia.
+
+Respuesta correcta: A) Beriberi y Síndrome de Wernicke-Korsakoff.
+Justificación: En la sección específica de la Vitamina B1 (Tiamina), se detalla en la columna de deficiencia que su falta causa Beriberi y el Síndrome de Wernicke-Korsakoff.
+
+PREGUNTA 7
+¿A qué vitamina corresponde la manifestación clínica de deficiencia conocida como "Pelagra"?
+A) Vitamina B1 (Tiamina)
+B) Vitamina B2 (Riboflavina)
+C) Vitamina B3 (Niacina)
+D) Vitamina B6 (Piridoxina)
+
+Respuesta correcta: C) Vitamina B3 (Niacina)
+Justificación: La lámina de la Vitamina B3 (Niacina) especifica claramente en el apartado de deficiencia que la falta de esta vitamina produce la enfermedad llamada Pelagra.
+
+PREGUNTA 8
+La Vitamina B3 (Niacina) se utiliza clínicamente para tratar la hiperlipidemia. Sin embargo, ¿qué efecto adverso característico puede producir su administración?
+A) Neuropatía periférica.
+B) Cálculos renales de calcio.
+C) Rubor facial (flushing).
+D) Anemia megaloblástica severa.
+
+Respuesta correcta: C) Rubor facial (flushing).
+Justificación: En la tabla descriptiva de la Vitamina B3, bajo la columna de efectos adversos, se menciona de forma particular el "Rubor facial (flushing)".
+
+PREGUNTA 9
+¿Qué vitamina del complejo B se administra clínicamente para contrarrestar la toxicidad, como la neuropatía periférica, inducida por el fármaco isoniazida?
+A) Vitamina B1 (Tiamina)
+B) Vitamina B6 (Piridoxina)
+C) Vitamina B9 (Ácido Fólico)
+D) Vitamina B12 (Cobalamina)
+
+Respuesta correcta: B) Vitamina B6 (Piridoxina)
+Justificación: En la descripción de la Vitamina B6 (Piridoxina), se indica que sus usos clínicos principales incluyen el manejo de náuseas en el embarazo y contrarrestar la toxicidad por isoniazida.
+
+PREGUNTA 10
+¿Qué complicación congénita grave busca prevenir el uso clínico adecuado de Vitamina B9 (Ácido Fólico) durante el embarazo?
+A) Anemia hemolítica del recién nacido.
+B) Defectos del tubo neural.
+C) Ceguera congénita y cataratas.
+D) Enfermedad hemorrágica del recién nacido.
+
+Respuesta correcta: B) Defectos del tubo neural.
+Justificación: La sección de Vitamina B9 indica que su deficiencia causa defectos del tubo neural y anemia megaloblástica, lo que justifica su uso preventivo durante el embarazo.
+
+PREGUNTA 11
+Para la correcta absorción de la Vitamina B12 (Cobalamina), se requiere indispensablemente de un componente gástrico. ¿Cuál es?
+A) Ácido ascórbico
+B) Factor intrínseco
+C) Pepsina
+D) Ácido fólico
+
+Respuesta correcta: B) Factor intrínseco
+Justificación: El mecanismo de acción de la Vitamina B12 señala textualmente que "requiere factor intrínseco para su absorción". Sin este componente, se produce deficiencia y anemia perniciosa.
+
+PREGUNTA 12
+¿Qué manifestaciones visuales produce la deficiencia severa de Vitamina A (Retinol)?
+A) Cataratas y glaucoma de ángulo cerrado.
+B) Ceguera nocturna y xeroftalmia.
+C) Visión borrosa temporal por fatiga.
+D) Degeneración macular asociada a la edad.
+
+Respuesta correcta: B) Ceguera nocturna y xeroftalmia.
+Justificación: La lámina correspondiente a la Vitamina A especifica que su deficiencia está directamente asociada a la "ceguera nocturna, xeroftalmia".
+
+PREGUNTA 13
+¿Por qué está contraindicado el exceso de Vitamina A durante el embarazo?
+A) Porque interfiere negativamente con la absorción de hierro en la dieta.
+B) Porque puede provocar escorbuto temporal en el feto.
+C) Porque en exceso es teratogénica (causa malformaciones) y produce hepatotoxicidad.
+D) Porque disminuye peligrosamente la coagulación sanguínea materna.
+
+Respuesta correcta: C) Porque en exceso es teratogénica (causa malformaciones) y produce hepatotoxicidad.
+Justificación: La sección de Vitamina A advierte explícitamente en sus efectos adversos que el exceso de esta vitamina es teratogénico y causa hepatotoxicidad.
+
+PREGUNTA 14
+¿Cuál es el mecanismo de acción primario de la Vitamina D (Colecalciferol) en el organismo?
+A) Actúa como cofactor en la síntesis de las fibras de colágeno.
+B) Aumenta la absorción intestinal de calcio y fósforo.
+C) Protege a las membranas celulares del daño oxidativo.
+D) Sintetiza los principales factores de coagulación en el hígado.
+
+Respuesta correcta: B) Aumenta la absorción intestinal de calcio y fósforo.
+Justificación: El documento establece claramente que el mecanismo de acción de la Vitamina D consiste en aumentar la absorción intestinal de minerales esenciales como el calcio y el fósforo.
+
+PREGUNTA 15
+¿Qué patologías o deformidades óseas se producen por la deficiencia de Vitamina D en niños y en adultos, respectivamente?
+A) Beriberi en niños y Pelagra en adultos.
+B) Raquitismo en niños y osteomalacia en adultos.
+C) Escorbuto en niños y osteoporosis en adultos.
+D) Anemia megaloblástica en niños y anemia perniciosa en adultos.
+
+Respuesta correcta: B) Raquitismo en niños y osteomalacia en adultos.
+Justificación: En la descripción general y en la tabla de la Vitamina D, se detalla que su deficiencia es la causante directa de "Raquitismo (niños), osteomalacia (adultos)".
+
+PREGUNTA 16
+¿Qué complicación importante puede generar la administración de altas dosis de Vitamina E (Tocoferol)?
+A) Hepatotoxicidad fulminante.
+B) Cálculos renales de oxalato.
+C) Interferencia con la vitamina K, lo que aumenta el riesgo de sangrado.
+D) Queilosis y daño neurológico permanente.
+
+Respuesta correcta: C) Interferencia con la vitamina K, lo que aumenta el riesgo de sangrado.
+Justificación: El apartado de efectos adversos de la Vitamina E señala concretamente que "dosis altas interfieren con la vitamina K (sangrado)".
+
+PREGUNTA 17
+¿Qué vitamina liposoluble actúa fundamentalmente sintetizando los factores de coagulación II, VII, IX y X?
+A) Vitamina K (Filoquinona)
+B) Vitamina A (Retinol)
+C) Vitamina E (Tocoferol)
+D) Vitamina C (Ácido Ascórbico)
+
+Respuesta correcta: A) Vitamina K (Filoquinona)
+Justificación: El mecanismo de acción descrito para la Vitamina K (Filoquinona) es exactamente la "síntesis de factores de coagulación (II, VII, IX, X)".
+
+PREGUNTA 18
+¿En qué situaciones clínicas específicas se indica el uso terapéutico prioritario de la Vitamina K?
+A) En el tratamiento del acné severo y en casos de sarampión.
+B) En la profilaxis de la migraña recurrente.
+C) Para tratar la sobredosis de warfarina y la enfermedad hemorrágica del recién nacido.
+D) En pacientes veganos estrictos para evitar la anemia.
+
+Respuesta correcta: C) Para tratar la sobredosis de warfarina y la enfermedad hemorrágica del recién nacido.
+Justificación: Los usos clínicos que la presentación enumera para la Vitamina K incluyen puntualmente la "sobredosis de warfarina" y la prevención/tratamiento de la "enfermedad hemorrágica del recién nacido".
+
+PREGUNTA 19
+¿Qué patologías a nivel bucal son un hallazgo clínico característico en la deficiencia de Vitamina B2 (Riboflavina)?
+A) Gingivitis severa con sangrado masivo.
+B) Hipertrofia de las papilas gustativas.
+C) Queilosis y estomatitis.
+D) Pérdida temprana de piezas dentales.
+
+Respuesta correcta: C) Queilosis y estomatitis.
+Justificación: En la tabla perteneciente a la Vitamina B2 (Riboflavina), bajo la columna de deficiencia, se mencionan de forma puntual la "Queilosis, estomatitis" como manifestaciones de su carencia.
+
+PREGUNTA 20
+De acuerdo con el texto del artículo científico mencionado en el documento sobre las concentraciones séricas, ¿qué nivel de 25(OH)D3 (vitamina D) se propone que deben superar los niños europeos (en un 97.5% de los casos)?
+A) 10 nmol/L
+B) 25.8 nmol/L
+C) 50 nmol/L
+D) 100 nmol/L
+
+Respuesta correcta: C) 50 nmol/L
+Justificación: El extracto del artículo científico en las últimas páginas menciona que la simulación apoyó la propuesta previa de que el suero de 25(OH)D3 "debería exceder los 50 nmol/L" entre el 97.5% de los niños europeos.
+
 
