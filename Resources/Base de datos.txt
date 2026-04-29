@@ -1,0 +1,446 @@
+BASE DE DATOS: FÁRMACOS DEPRESORES (SEDANTES Y OPIOIDES)
+
+PREGUNTA 1
+Según el documento, ¿qué efecto producen los fármacos sedantes-hipnóticos cuando se administran en dosis bajas?
+A) Hipnosis o sueño
+B) Sedación (relajación)
+C) Anestesia
+D) Depresión respiratoria
+
+Respuesta correcta: B) Sedación (relajación)
+
+Justificación: El documento señala explícitamente en la sección de "Efecto según dosis" que las dosis bajas producen sedación o relajación, las moderadas inducen hipnosis (sueño) y las altas provocan anestesia o depresión respiratoria.
+
+PREGUNTA 2
+En cuanto a su sitio de acción, ¿sobre qué tipo de estructuras actúan principalmente los fármacos opioides en el organismo?
+A) Receptores nucleares
+B) Canales iónicos de cloro
+C) Receptores de proteína G
+D) Enzimas hepáticas
+
+Respuesta correcta: C) Receptores de proteína G
+
+Justificación: En los "Aspectos Generales de Opioides", se especifica que su sitio de acción son los receptores de proteína G en el sistema nervioso central y periférico.
+
+PREGUNTA 3
+De acuerdo con la clasificación de los péptidos opioides endógenos, ¿cuál es el origen o precursor de las endorfinas (p. ej., Beta-endorfina)?
+A) Proencefalina
+B) Prodinorfina
+C) Nociceptina
+D) Proopiomelanocortina
+
+Respuesta correcta: D) Proopiomelanocortina
+
+Justificación: El esquema de péptidos opioides endógenos detalla que el origen de las endorfinas es la "Proopiomelanocortina".
+
+PREGUNTA 4
+Dentro de la selectividad de los receptores, ¿cuáles son las funciones clave asociadas específicamente al receptor MU (μ)?
+A) Exclusivamente la modulación del dolor y el estrés
+B) Analgesia espinal, sedación y disforia
+C) Analgesia potente, euforia, depresión respiratoria, miosis, estreñimiento y dependencia
+D) Analgesia débil y aumento del tránsito intestinal
+
+Respuesta correcta: C) Analgesia potente, euforia, depresión respiratoria, miosis, estreñimiento y dependencia
+
+Justificación: La tabla de receptores detalla que el receptor MU está ligado a estas funciones específicas, a diferencia de los receptores kappa, delta o NOP que tienen otras características.
+
+PREGUNTA 5
+¿Cuál es el mecanismo de acción celular específico de los opioides tras la inhibición de la adenilato ciclasa (disminución de AMPc)?
+A) Abren canales de Sodio (Na+) y cierran canales de Cloro (Cl-)
+B) Abren canales de Potasio (K+) e inhiben canales de Calcio (Ca+) voltaje dependientes
+C) Aumentan la liberación de glutamato y sustancia P
+D) Bloquean los receptores GABA-A
+
+Respuesta correcta: B) Abren canales de Potasio (K+) e inhiben canales de Calcio (Ca+) voltaje dependientes
+
+Justificación: El documento indica que esto causa una hiperpolarización neuronal y disminuye la liberación de neurotransmisores (como glutamato y sustancia P), reduciendo la transmisión nociceptiva.
+
+PREGUNTA 6
+¿Cuáles de los siguientes fármacos opioides son mencionados en el texto como causantes de convulsiones?
+A) Meperidina y Tramadol
+B) Morfina y Fentanilo
+C) Metadona y Heroína
+D) Naloxona y Naltrexona
+
+Respuesta correcta: A) Meperidina y Tramadol
+
+Justificación: En la sección "Otros Efectos Fisiológicos", punto 3, se especifica que las convulsiones pueden ser provocadas por opioides como la Meperidina y el Tramadol.
+
+PREGUNTA 7
+La sobredosis de opioides puede causar la muerte por depresión respiratoria. ¿Por qué se produce esta condición?
+A) Por la parálisis del esfínter de Oddi
+B) Por el aumento de sensibilidad del centro respiratorio al Oxígeno
+C) Por la estimulación de la zona gatillo quimiorreceptora
+D) Por la disminución de sensibilidad del centro respiratorio al CO2
+
+Respuesta correcta: D) Por la disminución de sensibilidad del centro respiratorio al CO2
+
+Justificación: El documento explica claramente en el punto 4 de "Otros Efectos Fisiológicos" que la depresión respiratoria se produce cuando disminuye la sensibilidad del centro respiratorio al CO2.
+
+PREGUNTA 8
+Según la farmacocinética (LADME) de la Morfina y agonistas opioides, ¿cuál es su vía principal de excreción?
+A) Biliar
+B) Hepática
+C) Renal
+D) Pulmonar
+
+Respuesta correcta: C) Renal
+
+Justificación: La lámina correspondiente a la farmacocinética (LADME) de morfina y agonistas opioides establece que la excreción es "Principalmente: Renal".
+
+PREGUNTA 9
+Si un paciente presenta depresión respiratoria severa por una sobredosis de opioides, ¿qué antagonista se menciona como bloqueador competitivo para restaurar la respiración?
+A) Flumazenil
+B) Naloxona
+C) Codeína
+D) Zolpidem
+
+Respuesta correcta: B) Naloxona
+
+Justificación: El esquema ilustra a la "Naloxona" (inyectable o nasal) como el fármaco que bloquea a los opioides y restaura la respiración.
+
+PREGUNTA 10
+¿Cuál es el nombre químico de la Heroína y qué propiedad la hace atravesar rápidamente hacia el cerebro?
+A) Diacetilmorfina; es muy lipofílica
+B) Morfina-6-glucurónido; es muy hidrofílica
+C) Levorfanol; se une fuertemente a proteínas plasmáticas
+D) Metadona; tiene una larga vida media
+
+Respuesta correcta: A) Diacetilmorfina; es muy lipofílica
+
+Justificación: El documento indica en la sección de "Otros Opioides" que la heroína es la diacetilmorfina, es muy lipofílica, atraviesa rápido el cerebro y produce euforia intensa y adicción.
+
+PREGUNTA 11
+En cuanto a la base neurológica de los sedantes, ¿cuál es el principal neurotransmisor inhibidor del cerebro sobre el que actúan?
+A) Serotonina
+B) Dopamina
+C) GABA
+D) Acetilcolina
+
+Respuesta correcta: C) GABA
+
+Justificación: La presentación afirma expresamente que el GABA es el "principal neurotransmisor inhibidor del cerebro" y que reduce la actividad de las neuronas.
+
+PREGUNTA 12
+Cuando el GABA se une a su receptor (GABA-A) por la acción de un sedante, ¿qué ocurre fisiológicamente en la neurona?
+A) Se cierra el canal de Sodio
+B) Se abre un canal de Cloro (Cl-), el cloro entra y la neurona se hiperpolariza
+C) Entra Calcio provocando excitación cerebral
+D) Disminuye el nivel de AMPc
+
+Respuesta correcta: B) Se abre un canal de Cloro (Cl-), el cloro entra y la neurona se hiperpolariza
+
+Justificación: El esquema de la base neurológica detalla los 4 pasos: se activa el receptor GABA-A, abre el canal de cloro, el cloro entra y la neurona se hiperpolariza (llevando a relajación y sueño).
+
+PREGUNTA 13
+¿Qué grupo de sedantes, donde se encuentra el Fenobarbital, fue el más usado anteriormente pero hoy se utiliza menos por ser más peligroso?
+A) Benzodiacepinas
+B) Hipnóticos no benzodiacepínicos (Fármacos Z)
+C) Barbitúricos
+D) Antihistamínicos
+
+Respuesta correcta: C) Barbitúricos
+
+Justificación: La lámina sobre "Principales grupos de sedantes-hipnóticos" describe a los Barbitúricos (como fenobarbital y tiopental) como los más usados antes pero que hoy se emplean menos por su peligrosidad.
+
+PREGUNTA 14
+¿Qué efecto clínico particular producen las benzodiacepinas al actuar específicamente a nivel del Hipocampo?
+A) Relajación muscular generalizada
+B) Amnesia anterógrada (dificultad para formar nuevos recuerdos)
+C) Disminución de la ansiedad por acción en la amígdala
+D) Efecto anticonvulsivante rápido
+
+Respuesta correcta: B) Amnesia anterógrada (dificultad para formar nuevos recuerdos)
+
+Justificación: En la sección "Efectos Clínicos", se detalla que la acción en el Hipocampo altera la consolidación de la memoria, provocando amnesia anterógrada.
+
+PREGUNTA 15
+¿Cuál es el fármaco antagonista competitivo utilizado para tratar la sobredosis o revertir los efectos sedantes de las benzodiacepinas?
+A) Naltrexona
+B) Naloxona
+C) Flumazenil
+D) Oliceridina
+
+Respuesta correcta: C) Flumazenil
+
+Justificación: La lámina de "Principales Antagonistas" de sedantes lista al Flumazenil como el encargado de bloquear a las benzodiacepinas al unirse al receptor GABA-A.
+
+PREGUNTA 16
+Las benzodiacepinas y otros depresores del SNC están fuertemente contraindicados en pacientes que padecen de:
+A) Insuficiencia respiratoria, apnea del sueño o enfermedad pulmonar grave
+B) Dolor agudo o crónico
+C) Convulsiones recurrentes
+D) Ansiedad generalizada
+
+Respuesta correcta: A) Insuficiencia respiratoria, apnea del sueño o enfermedad pulmonar grave
+
+Justificación: La diapositiva de "Contraindicaciones" indica que no deben usarse en pacientes con apnea del sueño o enfermedad pulmonar grave, por el riesgo de depresión respiratoria severa.
+
+PREGUNTA 17
+¿Cómo define el documento el concepto de "Tolerancia" frente al uso prolongado de sedantes y opioides?
+A) La aparición de convulsiones tras suspender el medicamento
+B) El organismo se adapta al fármaco y se necesita mayor dosis para producir el mismo efecto
+C) El paciente requiere el fármaco únicamente por dependencia psicológica
+D) La capacidad del cuerpo de metabolizar el fármaco por la orina sin efectos secundarios
+
+Respuesta correcta: B) El organismo se adapta al fármaco y se necesita mayor dosis para producir el mismo efecto
+
+Justificación: En "Efectos adversos y Tolerancia", se especifica que con el uso prolongado ocurre una adaptación, requiriendo aumentar la dosis para lograr el efecto sedante o hipnótico.
+
+PREGUNTA 18
+De las siguientes opciones, ¿cuál es una benzodiacepina clasificada en el texto como "muy potente, de corta duración y muy usada para sedación antes de cirugías"?
+A) Diazepam
+B) Lorazepam
+C) Midazolam
+D) Zolpidem
+
+Respuesta correcta: C) Midazolam
+
+Justificación: En la tabla de "Principales Agonistas", el Midazolam es el fármaco descrito exactamente con esa potencia, tiempo de acción y uso prequirúrgico.
+
+PREGUNTA 19
+Según el artículo científico referenciado al final, la nueva estrategia de los "Agonistas opioides sesgados" (como la Oliceridina) consiste en:
+A) Favorecer la activación de la vía Beta-arrestina para evitar la anestesia profunda
+B) Bloquear los canales de cloro de los receptores GABA
+C) Activar preferentemente la vía de la proteína G (analgesia) y reducir la vía Beta-arrestina (efectos adversos)
+D) Actuar exclusivamente como antagonistas sobre los receptores Delta
+
+Respuesta correcta: C) Activar preferentemente la vía de la proteína G (analgesia) y reducir la vía Beta-arrestina (efectos adversos)
+
+Justificación: El resumen del artículo indica que los nuevos opioides mantienen el efecto analgésico por la vía de proteína G, pero evitan activar la Beta-arrestina para reducir la tolerancia, el estreñimiento y la depresión respiratoria.
+
+PREGUNTA 20
+El uso crónico de sedantes puede generar Dependencia Física. ¿Qué cuadro clínico clásico de Síndrome de Abstinencia describe el documento si se suspende bruscamente el fármaco?
+A) Ansiedad, insomnio, irritabilidad y convulsiones
+B) Somnolencia diurna excesiva, bradicardia e hipotensión
+C) Miosis, estreñimiento severo y letargo
+D) Pérdida de memoria a largo plazo y ataxia
+
+Respuesta correcta: A) Ansiedad, insomnio, irritabilidad y convulsiones
+
+Justificación: En la sección "Dependencia Física", los síntomas puntuales listados que conforman el síndrome de abstinencia de estos fármacos son ansiedad, insomnio, irritabilidad y convulsiones.
+
+BASE DE DATOS: AUTACOIDES
+
+PREGUNTA 1
+Según el documento, ¿cuál de las siguientes características define correctamente a los autacoides?
+A) Son hormonas sistémicas que se almacenan en grandes cantidades.
+B) Son mediadores locales que actúan de forma paracrina o autocrina y se sintetizan a demanda.
+C) Son neurotransmisores exclusivos del sistema nervioso central de origen proteico.
+D) Son derivados de carbohidratos que inhiben la inflamación.
+
+Respuesta correcta: B) Son mediadores locales que actúan de forma paracrina o autocrina y se sintetizan a demanda.
+
+Justificación: En la diapositiva "Autacoides", se especifica que son mediadores locales derivados principalmente de lípidos, actúan de forma paracrina o autocrina y se sintetizan a demanda (no se almacenan).
+
+PREGUNTA 2
+¿Qué enzima es la encargada de liberar el ácido araquidónico desde los fosfolípidos de la membrana celular?
+A) Ciclooxigenasa (COX)
+B) Lipooxigenasa (LOX)
+C) Fosfolipasa A2 (PLA2)
+D) Tromboxano sintasa
+
+Respuesta correcta: C) Fosfolipasa A2 (PLA2)
+
+Justificación: La lámina "Formación del Ácido Araquidónico" indica claramente que este se libera de la membrana celular por acción de la enzima Fosfolipasa A2 (PLA2).
+
+PREGUNTA 3
+De acuerdo con las vías de formación del ácido araquidónico, ¿cuáles son los productos principales de la vía de la ciclooxigenasa (COX)?
+A) Leucotrienos y lipoxinas
+B) Prostaglandinas y tromboxanos
+C) Histamina y serotonina
+D) Óxido nítrico y bradicinina
+
+Respuesta correcta: B) Prostaglandinas y tromboxanos
+
+Justificación: El documento establece que la vía de la ciclooxigenasa (COX) da lugar a las prostaglandinas y tromboxanos, mientras que la vía lipooxigenasa (LOX) produce leucotrienos.
+
+PREGUNTA 4
+Dentro de las isoformas de la ciclooxigenasa, ¿cuál es la función principal de la COX-1?
+A) Inducir daño tisular e infección
+B) Producir citocinas proinflamatorias
+C) Atraer neutrófilos hacia el lugar de la inflamación
+D) Brindar protección gástrica, mantener el flujo renal y sintetizar tromboxano plaquetario
+
+Respuesta correcta: D) Brindar protección gástrica, mantener el flujo renal y sintetizar tromboxano plaquetario
+
+Justificación: El esquema de metabolismo del ácido araquidónico diferencia que la COX-1 se asocia con protección gástrica, flujo renal y síntesis de tromboxano, mientras que la COX-2 se asocia a citocinas, daño e infección.
+
+PREGUNTA 5
+¿Qué prostaglandina específica está asociada de manera predominante a la generación de dolor y fiebre?
+A) PGF2a
+B) PGI2
+C) PGE2
+D) PGD2
+
+Respuesta correcta: C) PGE2
+
+Justificación: En el recuadro de "Efectos clínicos esperados", se señala que el predominio de PGE2 por la vía de la ciclooxigenasa genera fiebre, dolor, vasodilatación e inflamación.
+
+PREGUNTA 6
+La hemostasia y el equilibrio trombótico están regulados principalmente por la interacción entre dos prostanoides con efectos opuestos. ¿Cuáles son?
+A) PGE2 (vasoconstrictor) y PGF2a (vasodilatador)
+B) Tromboxano A2 / TXA2 (procoagulante) y Prostaciclina / PGI2 (anticoagulante)
+C) LTB4 (proagregante) y LTC4 (antiagregante)
+D) Óxido nítrico (procoagulante) y Bradicinina (anticoagulante)
+
+Respuesta correcta: B) Tromboxano A2 / TXA2 (procoagulante) y Prostaciclina / PGI2 (anticoagulante)
+
+Justificación: La lámina "Tromboxanos" destaca literalmente: "El equilibrio entre tromboxano y prostaciclina regula la hemostasia", especificando que el TXA2 es procoagulante/vasoconstrictor y la PGI2 es anticoagulante/vasodilatadora.
+
+PREGUNTA 7
+Dentro de la vía de la lipooxigenasa, ¿cuál es la función principal del leucotrieno LTB4?
+A) Relajación del músculo liso uterino
+B) Broncodilatación y reducción del moco
+C) Quimiotaxis, encargándose de atraer células de defensa como los neutrófilos
+D) Freno de la inflamación y resolución del daño celular
+
+Respuesta correcta: C) Quimiotaxis, encargándose de atraer células de defensa como los neutrófilos
+
+Justificación: El apartado de "Leucotrienos" indica expresamente que el LTB4 se encarga de atraer células de defensa, como los neutrófilos, hacia el lugar de la inflamación (quimiotaxis).
+
+PREGUNTA 8
+Los leucotrienos LTC4, LTD4 y LTE4 actúan a nivel pulmonar causando:
+A) Broncoconstricción, aumento de permeabilidad vascular y aumento de secreción mucosa
+B) Broncodilatación y disminución del moco
+C) Disminución de la permeabilidad vascular e inhibición del asma
+D) Regeneración del tejido alveolar
+
+Respuesta correcta: A) Broncoconstricción, aumento de permeabilidad vascular y aumento de secreción mucosa
+
+Justificación: La presentación detalla que LTC4, LTD4 y LTE4 actúan en los pulmones causando el cierre de los bronquios (broncoconstricción - clave en el asma), aumento de moco y de la permeabilidad vascular (edema).
+
+PREGUNTA 9
+De los fármacos análogos de las prostaglandinas, ¿cuál se utiliza principalmente para el tratamiento de úlceras a una dosis de 200 mcg cada 6 horas?
+A) Dinoprostona
+B) Carboprost
+C) Misoprostol
+D) Latanoprost
+
+Respuesta correcta: C) Misoprostol
+
+Justificación: La tabla de fármacos detalla que el Misoprostol (tipo PGE1) tiene como uso principal las úlceras, con una dosis habitual de 200 mcg vía oral cada 6 horas.
+
+PREGUNTA 10
+¿Cuál es el mecanismo de acción de fármacos como Montelukast y Zafirlukast utilizados en el asma?
+A) Inhiben la 5-lipooxigenasa disminuyendo la síntesis de leucotrienos
+B) Son antagonistas del receptor CysLT1 (bloquean a los leucotrienos)
+C) Inhiben indirectamente el Tromboxano A2
+D) Son análogos de la Prostaciclina
+
+Respuesta correcta: B) Son antagonistas del receptor CysLT1 (bloquean a los leucotrienos)
+
+Justificación: En la tabla de fármacos para leucotrienos, tanto el Montelukast como el Zafirlukast se describen como antagonistas del receptor CysLT1, bloqueando el efecto de los leucotrienos.
+
+PREGUNTA 11
+¿Qué autacoide se almacena en mastocitos y basófilos, y es clave en reacciones de hipersensibilidad inmediata como la anafilaxia?
+A) Serotonina
+B) Bradicinina
+C) Óxido Nítrico
+D) Histamina
+
+Respuesta correcta: D) Histamina
+
+Justificación: El documento indica en la sección de "Histamina" que es un mediador almacenado en mastocitos y basófilos, liberado en alergias, y clave en reacciones como la anafilaxia.
+
+PREGUNTA 12
+El fármaco Famotidina es utilizado para tratar úlceras y reflujo. ¿Cuál es su mecanismo de acción según el documento?
+A) Antagonista H1 de segunda generación
+B) Inhibidor de la enzima convertidora de angiotensina
+C) Antagonista H2 (disminuye el ácido gástrico)
+D) Agonista de la Serotonina
+
+Respuesta correcta: C) Antagonista H2 (disminuye el ácido gástrico)
+
+Justificación: En la tabla de fármacos de la Histamina, la Famotidina se clasifica como un Antagonista H2, lo cual reduce la secreción de ácido gástrico.
+
+PREGUNTA 13
+¿Cuáles son los lugares de producción o almacenamiento principales de la Serotonina en el organismo?
+A) Endotelio vascular y pulmones
+B) Mastocitos y neutrófilos
+C) Estómago e hígado
+D) Intestino, plaquetas y sistema nervioso central
+
+Respuesta correcta: D) Intestino, plaquetas y sistema nervioso central
+
+Justificación: La lámina correspondiente a la Serotonina especifica que este neurotransmisor se produce principalmente en el intestino, las plaquetas y el sistema nervioso central.
+
+PREGUNTA 14
+El Ondansetrón es un fármaco utilizado clínicamente para prevenir náuseas y vómitos. Su mecanismo de acción es:
+A) Activar los receptores de serotonina tipo 1B y 1D
+B) Bloquear el receptor de serotonina tipo tres
+C) Inhibir la fosfodiesterasa tipo cinco
+D) Bloquear los receptores H1 de histamina
+
+Respuesta correcta: B) Bloquear el receptor de serotonina tipo tres
+
+Justificación: En la tabla de fármacos para la serotonina, se detalla que el Ondansetrón "bloquea el receptor de serotonina tipo tres, evitando el vómito".
+
+PREGUNTA 15
+Durante el embarazo, ¿qué función cumple de manera fundamental el Óxido Nítrico?
+A) Inducir las contracciones uterinas para el parto
+B) Disminuir el sangrado uterino postparto
+C) Mantener la vasodilatación uteroplacentaria asegurando un adecuado flujo sanguíneo fetal
+D) Causar vasoconstricción placentaria para evitar hemorragias
+
+Respuesta correcta: C) Mantener la vasodilatación uteroplacentaria asegurando un adecuado flujo sanguíneo fetal
+
+Justificación: La diapositiva sobre Óxido Nítrico en el embarazo indica que mantiene la vasodilatación uteroplacentaria para asegurar el flujo sanguíneo y el intercambio de nutrientes y oxígeno.
+
+PREGUNTA 16
+¿Cuál es el uso clínico de la Nitroglicerina por vía sublingual y cómo actúa?
+A) Se usa para la disfunción eréctil mediante la inhibición de PDE5
+B) Se usa en la angina de pecho porque libera óxido nítrico y produce vasodilatación
+C) Se usa para la hipertensión arterial bloqueando la angiotensina
+D) Se usa para el asma relajando el músculo liso bronquial
+
+Respuesta correcta: B) Se usa en la angina de pecho porque libera óxido nítrico y produce vasodilatación
+
+Justificación: La tabla de fármacos del óxido nítrico menciona que la Nitroglicerina libera óxido nítrico, produce relajación del músculo liso y vasodilatación, siendo su uso clínico la angina de pecho.
+
+PREGUNTA 17
+¿Cuál de los siguientes péptidos es responsable de síntomas como el edema y el dolor durante los procesos inflamatorios, además de causar aumento de la permeabilidad vascular?
+A) Bradicinina
+B) Tromboxano A2
+C) Serotonina
+D) Lipoxina
+
+Respuesta correcta: A) Bradicinina
+
+Justificación: La lámina de "Bradicinina" indica expresamente que es un péptido que participa en procesos inflamatorios, produce vasodilatación, aumento de permeabilidad, y es responsable de dolor y edema.
+
+PREGUNTA 18
+El Icatibant es un fármaco usado clínicamente para el Angioedema. ¿De qué manera funciona?
+A) Libera Óxido Nítrico en el tejido inflamado
+B) Inhibe la enzima convertidora de angiotensina
+C) Es un antagonista de los receptores de histamina tipo 1
+D) Bloquea el receptor tipo dos de la bradicinina
+
+Respuesta correcta: D) Bloquea el receptor tipo dos de la bradicinina
+
+Justificación: Según la tabla de fármacos para la bradicinina, el Icatibant "bloquea el receptor tipo dos de la bradicinina" y se usa de forma subcutánea (30 mg) para el angioedema.
+
+PREGUNTA 19
+¿Qué efecto provoca en el nivel de bradicinina el uso de inhibidores de la enzima convertidora de angiotensina (como el Enalapril)?
+A) Disminuye los niveles de bradicinina provocando broncodilatación
+B) Aumenta los niveles de bradicinina
+C) Destruye inmediatamente la bradicinina libre
+D) Bloquea directamente el receptor de la bradicinina
+
+Respuesta correcta: B) Aumenta los niveles de bradicinina
+
+Justificación: La tabla respectiva detalla que el Enalapril inhibe la enzima convertidora de angiotensina, lo cual trae como consecuencia que "aumenta los niveles de bradicinina".
+
+PREGUNTA 20
+Según el artículo científico al final del documento, ¿por qué otra vía (además de COX y LOX) se ha descubierto recientemente que se metaboliza el ácido araquidónico, generando compuestos bioactivos que regulan la función renal?
+A) Citocromo P450 (CYP450)
+B) Monoamino oxidasa (MAO)
+C) Adenilato ciclasa
+D) Fosfodiesterasa 5 (PDE5)
+
+Respuesta correcta: A) Citocromo P450 (CYP450)
+
+Justificación: El artículo sobre el ácido araquidónico ("Aporte nuevo") señala que este también se metaboliza por vías como el citocromo P450, lo cual genera compuestos bioactivos implicados en la regulación de la presión arterial y la función renal.
+
+
+
