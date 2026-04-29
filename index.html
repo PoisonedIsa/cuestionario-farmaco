@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario de Farmacología II</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Transiciones suaves para las vistas */
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        /* Ocultar barra de scroll pero permitir scroll si es necesario en móviles pequeños */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans min-h-screen flex flex-col">
+
+    <!-- Encabezado -->
+    <header class="bg-teal-600 text-white p-6 shadow-md text-center rounded-b-3xl shrink-0 z-10">
+        <h1 class="text-2xl md:text-3xl font-bold tracking-tight">Farmacología II</h1>
+        <p class="text-teal-100 mt-1 text-sm md:text-base">Desarrollado por Isaías</p>
+    </header>
+
+    <!-- Contenedor Principal -->
+    <main class="flex-grow flex items-center justify-center p-4 w-full">
+        <div class="bg-white rounded-2xl shadow-xl w-full max-w-lg max-h-full overflow-y-auto no-scrollbar fade-in relative" id="app-container">
+            
+            <!-- Pantalla de Inicio -->
+            <div id="pantalla-inicio" class="p-8 text-center block fade-in">
+                <div class="mb-6 flex justify-center">
+                    <svg class="w-20 h-20 text-teal-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                    </svg>
+                </div>
+                <h2 class="text-2xl font-bold mb-4 text-slate-800">¡Bienvenido al Cuestionario!</h2>
+                <p class="text-slate-600 mb-8 leading-relaxed">Pon a prueba tus conocimientos. La prueba consta de preguntas de selección múltiple sobre los temas de la materia.</p>
+                
+                <!-- Contenedor dinámico de categorías -->
+                <div id="contenedor-categorias" class="grid grid-cols-1 gap-3">
+                    <button id="btn-cargando" class="bg-teal-500 text-white font-bold py-4 px-8 rounded-xl shadow-lg w-full text-lg opacity-70 cursor-not-allowed">
+                        Conectando con base de datos...
+                    </button>
+                </div>
+            </div>
+
+            <!-- Pantalla de Preguntas -->
+            <div id="pantalla-preguntas" class="p-6 md:p-8 hidden fade-in">
+                <!-- Cabecera de progreso -->
+                <div class="flex justify-between items-center mb-4 text-sm text-slate-500 font-semibold">
+                    <span id="pregunta-contador" class="bg-slate-100 py-1 px-3 rounded-full">Pregunta 1/X</span>
+                    <span id="puntuacion-actual" class="bg-teal-50 text-teal-700 py-1 px-3 rounded-full">Puntos: 0</span>
+                </div>
+                <!-- Barra de Progreso -->
+                <div class="w-full bg-slate-200 rounded-full h-2.5 mb-6 overflow-hidden">
+                    <div class="bg-teal-500 h-2.5 rounded-full transition-all duration-500 ease-out" id="barra-progreso" style="width: 0%"></div>
+                </div>
+                
+                <!-- Pregunta -->
+                <h2 id="texto-pregunta" class="text-lg md:text-xl font-bold mb-6 text-slate-800 leading-snug">¿Cargando pregunta...?</h2>
+                
+                <!-- Opciones -->
+                <div id="opciones-contenedor" class="space-y-3 mb-6">
+                    <!-- Los botones se inyectan mediante JavaScript -->
+                </div>
+
+                <!-- Panel de Justificación (Oculto por defecto) -->
+                <div id="justificacion-contenedor" class="hidden mb-6 p-4 rounded-xl bg-blue-50 border border-blue-200 text-blue-800 fade-in">
+                    <p class="font-bold mb-1 flex items-center gap-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        Justificación:
+                    </p>
+                    <p id="texto-justificacion" class="text-sm leading-relaxed"></p>
+                </div>
+
+                <!-- Botón Siguiente -->
+                <button id="btn-siguiente" onclick="siguientePregunta()" class="bg-slate-800 hover:bg-slate-900 text-white font-bold py-4 px-6 rounded-xl shadow-md w-full hidden transition-colors active:scale-95">
+                    Siguiente Pregunta
+                </button>
+            </div>
+
+            <!-- Pantalla de Resultados -->
+            <div id="pantalla-resultados" class="p-8 text-center hidden fade-in">
+                <div class="mb-6 flex justify-center">
+                    <svg class="w-24 h-24 text-yellow-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
+                    </svg>
+                </div>
+                <h2 class="text-3xl font-bold mb-2 text-slate-800">¡Completado!</h2>
+                <p class="text-slate-500 mb-6 font-medium">Resultados de Farmacología II</p>
+                
+                <div class="bg-slate-50 rounded-2xl p-6 mb-8 border border-slate-100">
+                    <p class="text-5xl font-black text-teal-600 mb-2" id="puntuacion-final">0/0</p>
+                    <p class="text-slate-600" id="mensaje-resultado">¡Buen intento!</p>
+                </div>
+
+                <button onclick="reiniciarCuestionario()" class="bg-teal-500 hover:bg-teal-600 text-white font-bold py-4 px-8 rounded-xl shadow-lg transition-transform transform hover:scale-105 active:scale-95 w-full text-lg mb-3">
+                    Reintentar este tema
+                </button>
+                <button onclick="volverAlInicio()" class="bg-slate-200 hover:bg-slate-300 text-slate-800 font-bold py-4 px-8 rounded-xl shadow-md transition-transform transform hover:scale-105 active:scale-95 w-full text-lg">
+                    Elegir otro tema
+                </button>
+            </div>
+
+        </div>
+    </main>
+
+    <script>
+        // =====================================================================
+        // BANCO DE PREGUNTAS (Cargado desde GitHub)
+        // =====================================================================
+        let todasLasPreguntas = [];
+        let preguntas = [];
+        const textUrl = "https://raw.githubusercontent.com/PoisonedIsa/cuestionario-farmaco/main/Resources/Base%20de%20datos.txt";
+
+        // Variables de estado
+        let categoriaActual = { inicio: 0, fin: 0 };
+        let indicePreguntaActual = 0;
+        let puntuacion = 0;
+        let respondido = false;
+
+        // Referencias del DOM
+        const pantallaInicio = document.getElementById('pantalla-inicio');
+        const pantallaPreguntas = document.getElementById('pantalla-preguntas');
+        const pantallaResultados = document.getElementById('pantalla-resultados');
+        const textoPregunta = document.getElementById('texto-pregunta');
+        const opcionesContenedor = document.getElementById('opciones-contenedor');
+        const btnSiguiente = document.getElementById('btn-siguiente');
+        const preguntaContador = document.getElementById('pregunta-contador');
+        const puntuacionActual = document.getElementById('puntuacion-actual');
+        const barraProgreso = document.getElementById('barra-progreso');
+        const puntuacionFinal = document.getElementById('puntuacion-final');
+        const mensajeResultado = document.getElementById('mensaje-resultado');
+        const justificacionContenedor = document.getElementById('justificacion-contenedor');
+        const textoJustificacion = document.getElementById('texto-justificacion');
+
+        // --- FUNCIÓN MEJORADA PARA LEER TXT ---
+        function analizarTextoPlano(texto) {
+            // 1. Eliminar todos los asteriscos (*) que se suelen usar para negritas
+            texto = texto.replace(/\*/g, '');
+
+            // En caso de que el archivo TXT siga siendo JSON por dentro
+            try {
+                const parsed = JSON.parse(texto);
+                if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+            } catch(e) {}
+
+            const lineas = texto.split('\n').map(l => l.trim()).filter(l => l !== '');
+            const listaPreguntas = [];
+            let preguntaActual = null;
+
+            for (let i = 0; i < lineas.length; i++) {
+                const linea = lineas[i];
+                
+                // 2. Si la línea es un encabezado tipo "PREGUNTA 1", la usamos para separar bloques y la ignoramos
+                if (/^PREGUNTA\s*\d+/i.test(linea)) {
+                    if (preguntaActual && preguntaActual.respuestaCorrecta !== "") {
+                        listaPreguntas.push(preguntaActual);
+                    }
+                    preguntaActual = null; // Resetear para la siguiente pregunta
+                    continue;
+                }
+                
+                // Buscar si la línea es la respuesta o justificación (soporta "Respuesta correcta:")
+                const respMatch = linea.match(/^(?:Respuesta correcta|Respuesta|R|Correcta|Rta|Resp)\s*[:=\-]?\s*(.+)/i);
+                const justMatch = linea.match(/^(?:Justificaci[oó]n|Explicaci[oó]n|Por qu[eé])\s*[:=\-]?\s*(.+)/i);
+
+                if (respMatch) {
+                    if (preguntaActual) preguntaActual.respuestaCorrecta = respMatch[1].trim();
+                } else if (justMatch) {
+                    if (preguntaActual) preguntaActual.justificacion = justMatch[1].trim();
+                } else {
+                    // Si no es respuesta ni justificación, es pregunta u opción
+                    if (!preguntaActual || (preguntaActual.respuestaCorrecta !== "" || preguntaActual.justificacion !== "")) {
+                        // Si la pregunta anterior ya tiene respuesta/justificación, esta línea inicia una NUEVA pregunta
+                        if (preguntaActual && preguntaActual.respuestaCorrecta !== "") {
+                            listaPreguntas.push(preguntaActual);
+                        }
+                        preguntaActual = { pregunta: linea, opciones: [], respuestaCorrecta: "", justificacion: "" };
+                    } else {
+                        // Si aún no hay respuesta, revisamos si es una opción (A), B), 1., -, etc.)
+                        const isOption = /^([a-zA-Z][\)\.-]|[0-9]+[\)\.-]|[\-\+])\s*/.test(linea);
+                        
+                        if (isOption) {
+                            let optLimpia = linea.replace(/^([a-zA-Z][\)\.-]|[0-9]+[\)\.-]|[\-\+])\s*/, '').trim();
+                            if (optLimpia) preguntaActual.opciones.push(optLimpia);
+                        } else if (preguntaActual.opciones.length === 0) {
+                            // Si aún no hay opciones, asumimos que es continuación de una pregunta larga
+                            preguntaActual.pregunta += " " + linea;
+                        } else {
+                            // Es una opción sin viñeta aparente
+                            preguntaActual.opciones.push(linea);
+                        }
+                    }
+                }
+            }
+
+            // Guardar la última pregunta si es válida
+            if (preguntaActual && preguntaActual.respuestaCorrecta !== "") {
+                listaPreguntas.push(preguntaActual);
+            }
+            
+            console.log("Preguntas parseadas:", listaPreguntas);
+            return listaPreguntas;
+        }
+
+        // Cargar preguntas automáticamente
+        window.addEventListener('DOMContentLoaded', async () => {
+            const btnInicio = document.getElementById('btn-cargando');
+
+            try {
+                // Agregar un timestamp para evitar caché agresivo del navegador
+                const response = await fetch(textUrl + '?t=' + new Date().getTime());
+                if (!response.ok) throw new Error("Error en la descarga");
+                
+                const textData = await response.text();
+                
+                todasLasPreguntas = analizarTextoPlano(textData);
+
+                if (todasLasPreguntas.length === 0) {
+                    throw new Error("No se encontraron preguntas válidas. Revisa el formato.");
+                }
+                
+                renderizarCategorias();
+            } catch (error) {
+                console.error("Error al cargar TXT:", error);
+                if (btnInicio) {
+                    btnInicio.innerText = "Error de Conexión / Formato";
+                    btnInicio.classList.replace('bg-teal-500', 'bg-red-500');
+                }
+                
+                if(!document.getElementById('error-explicacion')) {
+                    const msg = document.createElement('p');
+                    msg.id = 'error-explicacion';
+                    msg.className = 'text-red-500 mt-4 text-sm font-medium';
+                    msg.innerText = "Error: " + error.message;
+                    document.getElementById('contenedor-categorias').appendChild(msg);
+                }
+            }
+        });
+
+        function renderizarCategorias() {
+            const contenedor = document.getElementById('contenedor-categorias');
+            contenedor.innerHTML = '<p class="text-slate-500 text-sm mb-2 font-semibold uppercase tracking-wider text-left">Selecciona un tema:</p>';
+            
+            // Definición de los bloques de 20 preguntas
+            const categorias = [
+                { nombre: "Fármacos depresores", inicio: 0, fin: 20 },
+                { nombre: "Autacoides", inicio: 20, fin: 40 },
+                { nombre: "Sis. Colinérgico", inicio: 40, fin: 60 },
+                { nombre: "Neurolépticos y psicógenos", inicio: 60, fin: 80 },
+                { nombre: "Antidepresivos y ansiolíticos", inicio: 80, fin: 100 },
+                { nombre: "Vitaminas", inicio: 100, fin: 120 },
+                { nombre: "📝 Examen Completo", inicio: 0, fin: todasLasPreguntas.length }
+            ];
+
+            categorias.forEach((cat, index) => {
+                const btn = document.createElement('button');
+                
+                // Extraemos solo las preguntas de este rango para saber cuántas hay realmente
+                const disponibles = todasLasPreguntas.slice(cat.inicio, cat.fin).length;
+                
+                btn.className = 'bg-white border-2 border-teal-500 text-teal-700 hover:bg-teal-50 hover:border-teal-600 font-bold py-3 px-4 rounded-xl shadow-sm transition-all transform active:scale-95 text-left flex justify-between items-center';
+                
+                // Numerar los temas del 1 al 6
+                let prefijo = index < 6 ? `${index + 1}. ` : '';
+                btn.innerHTML = `<span>${prefijo}${cat.nombre}</span> <span class="text-xs bg-teal-100 text-teal-800 px-2 py-1 rounded-full">${disponibles} preg.</span>`;
+                
+                if (disponibles === 0) {
+                    // Desactivar botón si aún no has subido preguntas para esa sección
+                    btn.classList.add('opacity-50', 'cursor-not-allowed', 'border-slate-300', 'text-slate-500');
+                    btn.classList.remove('hover:bg-teal-50', 'hover:border-teal-600', 'border-teal-500', 'text-teal-700');
+                    btn.disabled = true;
+                } else {
+                    btn.onclick = () => iniciarCuestionario(cat.inicio, cat.fin);
+                }
+                
+                contenedor.appendChild(btn);
+            });
+        }
+
+        // Funciones de control
+        function iniciarCuestionario(inicio = 0, fin = todasLasPreguntas.length) {
+            categoriaActual = { inicio, fin };
+            preguntas = todasLasPreguntas.slice(inicio, fin);
+            
+            if (preguntas.length === 0) return;
+            indicePreguntaActual = 0;
+            puntuacion = 0;
+            
+            pantallaInicio.classList.add('hidden');
+            pantallaResultados.classList.add('hidden');
+            pantallaPreguntas.classList.remove('hidden');
+            
+            mostrarPregunta();
+        }
+
+        function mostrarPregunta() {
+            respondido = false;
+            btnSiguiente.classList.add('hidden');
+            justificacionContenedor.classList.add('hidden');
+            
+            const preguntaObj = preguntas[indicePreguntaActual];
+            textoPregunta.innerText = preguntaObj.pregunta;
+            
+            preguntaContador.innerText = `Pregunta ${indicePreguntaActual + 1} / ${preguntas.length}`;
+            puntuacionActual.innerText = `Puntos: ${puntuacion}`;
+            
+            const progreso = (indicePreguntaActual / preguntas.length) * 100;
+            barraProgreso.style.width = `${progreso}%`;
+
+            opcionesContenedor.innerHTML = '';
+            preguntaObj.opciones.forEach((opcion, index) => {
+                const boton = document.createElement('button');
+                boton.innerText = opcion;
+                boton.className = 'w-full text-left p-4 rounded-xl border-2 border-slate-200 hover:border-teal-400 hover:bg-teal-50 transition-all font-medium text-slate-700 bg-white focus:outline-none';
+                boton.onclick = () => seleccionarRespuesta(index, boton);
+                opcionesContenedor.appendChild(boton);
+            });
+        }
+
+        function seleccionarRespuesta(indexSeleccionado, botonSeleccionado) {
+            if (respondido) return; 
+            respondido = true;
+            
+            const preguntaObj = preguntas[indicePreguntaActual];
+            const botones = opcionesContenedor.querySelectorAll('button');
+
+            // --- LÓGICA ROBUSTA PARA ENCONTRAR LA RESPUESTA CORRECTA ---
+            let indiceCorrecto = -1;
+            let ansOriginal = preguntaObj.respuestaCorrecta.toLowerCase().trim();
+            
+            // 1. Quitar incisos como "A)", "1.", "-" de la respuesta para comparar texto puro
+            let ansLimpia = ansOriginal.replace(/^([a-z][\)\.-]|[0-9]+[\)\.-]|[\-\*\+])\s*/i, '').trim();
+            if (!ansLimpia) ansLimpia = ansOriginal.replace(/[\)\.-]/g, '').trim(); // Si era solo "C)", nos quedamos con "C"
+
+            // 2. Si la respuesta es solo una letra (ej: a, b, c), deducir por el índice (a=0, b=1, c=2)
+            if (ansLimpia.length === 1 && /[a-z]/.test(ansLimpia)) {
+                let charCode = ansLimpia.charCodeAt(0) - 97; // 97 es el código ascii de 'a'
+                if (charCode >= 0 && charCode < preguntaObj.opciones.length) {
+                    indiceCorrecto = charCode;
+                }
+            } 
+            
+            // 3. Buscar por coincidencia de texto dentro de las opciones
+            if (indiceCorrecto === -1) {
+                indiceCorrecto = preguntaObj.opciones.findIndex(opt => {
+                    let optLower = opt.toLowerCase().trim();
+                    return optLower === ansLimpia || optLower.includes(ansLimpia);
+                });
+            }
+
+            // Evaluar si acertó
+            const esCorrecta = (indexSeleccionado === indiceCorrecto);
+
+            if (esCorrecta) {
+                botonSeleccionado.classList.replace('border-slate-200', 'border-green-500');
+                botonSeleccionado.classList.replace('hover:border-teal-400', 'bg-green-50');
+                botonSeleccionado.classList.replace('text-slate-700', 'text-green-800');
+                botonSeleccionado.classList.add('bg-green-50');
+                puntuacion++;
+                puntuacionActual.innerText = `Puntos: ${puntuacion}`;
+            } else {
+                botonSeleccionado.classList.replace('border-slate-200', 'border-red-500');
+                botonSeleccionado.classList.replace('hover:border-teal-400', 'bg-red-50');
+                botonSeleccionado.classList.replace('text-slate-700', 'text-red-800');
+                botonSeleccionado.classList.add('bg-red-50');
+                
+                // Resaltar la que era correcta (si la encontró)
+                if (indiceCorrecto !== -1 && botones[indiceCorrecto]) {
+                    const botonCorrecto = botones[indiceCorrecto];
+                    botonCorrecto.classList.replace('border-slate-200', 'border-green-500');
+                    botonCorrecto.classList.replace('text-slate-700', 'text-green-800');
+                    botonCorrecto.classList.add('bg-green-50');
+                }
+            }
+
+            // Mostrar Justificación si existe
+            if (preguntaObj.justificacion) {
+                textoJustificacion.innerText = preguntaObj.justificacion;
+                justificacionContenedor.classList.remove('hidden');
+            }
+
+            // Deshabilitar botones restantes
+            botones.forEach((btn, idx) => {
+                btn.disabled = true;
+                btn.classList.remove('hover:bg-teal-50', 'hover:border-teal-400');
+                if(btn !== botonSeleccionado && idx !== indiceCorrecto){
+                    btn.classList.add('opacity-60');
+                }
+            });
+            
+            btnSiguiente.classList.remove('hidden');
+        }
+
+        function siguientePregunta() {
+            indicePreguntaActual++;
+            if (indicePreguntaActual < preguntas.length) {
+                mostrarPregunta();
+            } else {
+                mostrarResultados();
+            }
+        }
+
+        function mostrarResultados() {
+            pantallaPreguntas.classList.add('hidden');
+            pantallaResultados.classList.remove('hidden');
+            
+            barraProgreso.style.width = `100%`;
+            puntuacionFinal.innerText = `${puntuacion} / ${preguntas.length}`;
+            
+            const porcentaje = (puntuacion / preguntas.length) * 100;
+            if(porcentaje >= 90) mensajeResultado.innerText = "¡Excelente nivel de conocimientos!";
+            else if (porcentaje >= 60) mensajeResultado.innerText = "¡Buen trabajo, aunque puedes mejorar!";
+            else mensajeResultado.innerText = "Necesitas repasar un poco más la materia.";
+        }
+
+        function reiniciarCuestionario() {
+            iniciarCuestionario(categoriaActual.inicio, categoriaActual.fin);
+        }
+
+        function volverAlInicio() {
+            pantallaResultados.classList.add('hidden');
+            pantallaPreguntas.classList.add('hidden');
+            pantallaInicio.classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>
