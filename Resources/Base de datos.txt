@@ -882,3 +882,207 @@ D) Succinilcolina
 * **Respuesta correcta:** C) Atropina
 
 * **Justificación:** En la lámina del "Síndrome Colinérgico (Organofosforados)", bajo "Tratamiento específico", se indica a la Atropina en dosis altas y repetidas para revertir los efectos muscarínicos graves (bradicardia, secreciones), junto con la pralidoxima para los efectos nicotínicos.
+
+BASE DE DATOS: ANTIDEPRESIVOS Y ANSIOLÍTICOS
+
+PREGUNTA 1
+En la fisiopatología de la depresión, ¿qué consecuencia estructural a nivel cerebral produce el estado depresivo asociado a niveles bajos de BDNF (Factor neurotrófico cerebral)?
+A) Hipertrofia de la amígdala.
+B) Atrofia de las espinas dendríticas y reducción de la neurogénesis en el hipocampo.
+C) Aumento descontrolado de la neurogénesis.
+D) Incremento masivo del volumen del cerebelo.
+
+Respuesta correcta: B) Atrofia de las espinas dendríticas y reducción de la neurogénesis en el hipocampo.
+Justificación: La diapositiva sobre la Fisiopatología de la Depresión establece textualmente que los niveles bajos de BDNF tienen como consecuencia la "Atrofia de las espinas dendríticas y reducción de la neurogénesis en el hipocampo".
+
+PREGUNTA 2
+De las tres monoaminas clave descritas en la presentación, ¿qué función se le atribuye principalmente a la dopamina?
+A) Nos permite sentir placer y motivación.
+B) Controla de forma exclusiva el estado de ánimo y el sueño.
+C) Nos da energía y nos mantiene alerta.
+D) Regula la liberación de histamina en el cerebro.
+
+Respuesta correcta: A) Nos permite sentir placer y motivación.
+Justificación: El documento detalla que la Serotonina controla ánimo/sueño, la Noradrenalina da energía/alerta, y la Dopamina "nos permite sentir placer y motivación".
+
+PREGUNTA 3
+¿Cuál de los siguientes fármacos pertenece al grupo de los Inhibidores Selectivos de Recaptación de Serotonina (ISRS)?
+A) Venlafaxina
+B) Selegilina
+C) Sertralina
+D) Amitriptilina
+
+Respuesta correcta: C) Sertralina
+Justificación: La lámina de "Clasificación de los Antidepresivos" lista bajo los ISRS a la Sertralina, junto a la Fluoxetina, Citalopram, Escitalopram y Paroxetina.
+
+PREGUNTA 4
+¿Cuál es el mecanismo de acción molecular de fármacos como la Venlafaxina y la Duloxetina (clasificados como IRSN)?
+A) Bloqueo selectivo únicamente del transportador presináptico de serotonina (SERT).
+B) Inhibición de forma irreversible de la enzima MAO.
+C) Antagonismo de los receptores alfa-2.
+D) Bloqueo del transportador de serotonina (SERT) y noradrenalina (NET).
+
+Respuesta correcta: D) Bloqueo del transportador de serotonina (SERT) y noradrenalina (NET).
+Justificación: En la clasificación, se especifica que el mecanismo de acción (MA) de los IRSN es el "Bloqueo del transportador de serotonina (SERT) y noradrenalina (NET)".
+
+PREGUNTA 5
+Dentro de la clasificación por acción en receptores y enzimas, ¿qué antidepresivo actúa específicamente como inhibidor de la recaptación de Dopamina y Noradrenalina?
+A) Trazodona
+B) Mirtazapina
+C) Bupropion
+D) Selegilina
+
+Respuesta correcta: C) Bupropion
+Justificación: La diapositiva sobre "Receptores y Enzimas" describe al Bupropion expresamente como un "Inhibidor de recaptación de Dopamina y Noradrenalina".
+
+PREGUNTA 6
+Los Antidepresivos Tricíclicos (como la Amitriptilina) generan reacciones adversas como boca seca, visión borrosa y estreñimiento. ¿A qué se deben estos síntomas específicos?
+A) A su bloqueo histaminérgico H1.
+B) A su bloqueo alfa-1.
+C) A su bloqueo muscarínico.
+D) A la sobreestimulación de serotonina.
+
+Respuesta correcta: C) A su bloqueo muscarínico.
+Justificación: La lámina sobre Antidepresivos Tricíclicos (ATC) explica que las RAM (Reacciones Adversas) de boca seca, visión borrosa y estreñimiento son consecuencia del "Bloqueo muscarínico".
+
+PREGUNTA 7
+Debido a su perfil de reacciones adversas y la aparición de fármacos más seguros, ¿cuál es el uso actual recomendado para los Antidepresivos Tricíclicos según el documento?
+A) Fármacos de primera línea para episodios depresivos leves.
+B) Segunda o tercera línea de tratamiento.
+C) Fármacos exclusivos para trastornos de pánico agudos.
+D) Tratamiento de elección en el embarazo.
+
+Respuesta correcta: B) Segunda o tercera línea de tratamiento.
+Justificación: En la diapositiva de Antidepresivos Tricíclicos se menciona textualmente en el apartado de uso actual: "Segunda o tercera línea".
+
+PREGUNTA 8
+¿Qué efecto adverso grave y característico se asocia a los fármacos IMAO (Inhibidores de la Monoaminooxidasa) cuando interactúan con alimentos que contienen tiramina (conocido como "efecto queso")?
+A) Síndrome de Abstinencia severo.
+B) Sedación profunda e hipotensión.
+C) Crisis hipertensiva.
+D) Hipoglucemia extrema.
+
+Respuesta correcta: C) Crisis hipertensiva.
+Justificación: En la sección de "Efectos Adversos Generales", se indica que los IMAO conllevan el riesgo de una "Crisis hipertensiva (Efecto queso, interacción con tiramina)".
+
+PREGUNTA 9
+El Bupropion presenta menor riesgo de disfunción sexual en comparación con los ISRS. Sin embargo, ¿cuál es un riesgo importante asociado a este fármaco, especialmente a dosis altas?
+A) Mayor probabilidad de desencadenar convulsiones.
+B) Insuficiencia cardíaca congestiva.
+C) Aumento masivo de peso corporal.
+D) Sangrado gastrointestinal agudo.
+
+Respuesta correcta: A) Mayor probabilidad de desencadenar convulsiones.
+Justificación: La lámina de Efectos Adversos Generales señala que el Bupropion presenta un "Riesgo de convulsiones a dosis altas".
+
+PREGUNTA 10
+De acuerdo a la fisiopatología de la ansiedad, ¿qué desequilibrio de neurotransmisores ocurre en el sistema nervioso?
+A) El GABA está aumentado y la Serotonina está disminuida.
+B) El GABA (inhibidor) está disminuido, mientras que la Serotonina y Noradrenalina (excitadores) están aumentados.
+C) Ausencia total de Dopamina y exceso de BDNF.
+D) Incremento masivo de todos los neurotransmisores inhibidores y excitadores al mismo tiempo.
+
+Respuesta correcta: B) El GABA (inhibidor) está disminuido, mientras que la Serotonina y Noradrenalina (excitadores) están aumentados.
+Justificación: En la lámina explicativa de la Ansiedad, se especifica el desequilibrio de neurotransmisores: "GABA (inhibidor disminuido)" y "Serotonina, noradrenalina (excitador aumentado)".
+
+PREGUNTA 11
+Según la clasificación de las Benzodiazepinas (BZD), ¿cuál de los siguientes fármacos es considerado de "acción larga"?
+A) Midazolam
+B) Alprazolam
+C) Diazepam
+D) Triazolam
+
+Respuesta correcta: C) Diazepam
+Justificación: En el esquema de "Clasificación de Ansiolíticos", dentro del grupo Benzodiazepinas de "Acción larga" se enlistan el Diazepam y el Clonazepam.
+
+PREGUNTA 12
+¿A qué grupo farmacológico ansiolítico pertenece la Buspirona?
+A) Benzodiazepinas de acción corta.
+B) Fármacos Z (Hipnóticos).
+C) Antidepresivos ISRS.
+D) Moduladores del Receptor 5-HT1A.
+
+Respuesta correcta: D) Moduladores del Receptor 5-HT1A.
+Justificación: La diapositiva de "Clasificación de Ansiolíticos" categoriza a la Buspirona en su propio grupo como un "Modulador del Receptor 5-HT1A".
+
+PREGUNTA 13
+¿Cuál es el mecanismo de acción específico de las benzodiazepinas a nivel neuronal?
+A) Son moduladores alostéricos positivos que aumentan la frecuencia de apertura del canal de Cloro (Cl-) del receptor GABA-A.
+B) Bloquean el canal de sodio voltaje-dependiente.
+C) Son agonistas directos de los receptores de serotonina 5-HT2.
+D) Inhiben la recaptación de dopamina y noradrenalina.
+
+Respuesta correcta: A) Son moduladores alostéricos positivos que aumentan la frecuencia de apertura del canal de Cloro (Cl-) del receptor GABA-A.
+Justificación: En "Mecanismo de acción BZD", se explica que son "Moduladores alostéricos positivos del receptor GABA-A" y su MA es que "aumentan la FRECUENCIA de apertura del canal de Cloro (Cl-)".
+
+PREGUNTA 14
+Dentro de los usos clínicos de las Benzodiazepinas, ¿cuál de ellas se menciona específicamente para la indicación de "preanestesia y sedación consciente"?
+A) Zolpidem
+B) Lorazepam
+C) Midazolam
+D) Clonazepam
+
+Respuesta correcta: C) Midazolam
+Justificación: La lámina "Usos Clínicos de Benzodiazepinas" menciona expresamente al Midazolam para la "Preanestesia y sedación consciente".
+
+PREGUNTA 15
+En cuanto a los efectos adversos cognitivos provocados por las Benzodiazepinas, ¿cuál es uno de los más destacados en el documento?
+A) Desarrollo de inteligencia superior temporal.
+B) Amnesia anterógrada y confusión.
+C) Amnesia retrógrada (olvido de la infancia).
+D) Mejora drástica de la retención de nuevos datos.
+
+Respuesta correcta: B) Amnesia anterógrada y confusión.
+Justificación: La diapositiva "Efectos Adversos BZD" detalla bajo la categoría Cognitivos: "Amnesia anterógrada, confusión".
+
+PREGUNTA 16
+¿Qué consecuencias trae consigo el uso crónico de benzodiazepinas en el contexto del desarrollo de "tolerancia y dependencia"?
+A) Adicción y Síndrome de Abstinencia al suspender el medicamento de golpe.
+B) Necesidad de cambiar a un Antidepresivo Tricíclico.
+C) Efecto queso automático por la dieta.
+D) Curación espontánea del trastorno de base sin posibilidad de recaída.
+
+Respuesta correcta: A) Adicción y Síndrome de Abstinencia al suspender el medicamento de golpe.
+Justificación: En la lámina de efectos adversos se especifica que el uso crónico de BZD genera adicción y produce "Síndrome de Abstinencia al suspender de golpe".
+
+PREGUNTA 17
+¿De qué manera interactúan los inhibidores de la enzima CYP3A4 (como el jugo de pomelo) con las benzodiazepinas?
+A) Destruyen rápidamente la estructura molecular de las BZD en el estómago.
+B) Disminuyen de forma abrupta los niveles del fármaco.
+C) Aumentan los niveles de las benzodiazepinas en el organismo.
+D) Previenen totalmente el desarrollo de tolerancia.
+
+Respuesta correcta: C) Aumentan los niveles de las benzodiazepinas en el organismo.
+Justificación: En la sección "Interacciones y Contraindicaciones (BZD)", indica claramente que los Inhibidores del CYP3A4 (ej. jugo de pomelo) "aumentan niveles" de estos fármacos.
+
+PREGUNTA 18
+Según el documento, ¿en cuáles de los siguientes escenarios o patologías están fuertemente contraindicadas las Benzodiazepinas?
+A) Ansiedad generalizada, insomnio esporádico e hipertensión leve.
+B) Miastenia Gravis, Apnea del sueño, Insuficiencia hepática severa y Glaucoma de ángulo cerrado.
+C) Ataques de pánico severos e intervenciones odontológicas rutinarias.
+D) Úlceras gástricas y reflujo gastroesofágico.
+
+Respuesta correcta: B) Miastenia Gravis, Apnea del sueño, Insuficiencia hepática severa y Glaucoma de ángulo cerrado.
+Justificación: En la lámina de "Interacciones y Contraindicaciones", se hace el listado literal de contraindicaciones que abarca: Miastenia Gravis, Apnea del sueño, Insuficiencia hepática severa, y Glaucoma de ángulo cerrado.
+
+PREGUNTA 19
+¿Qué efecto adverso se clasifica como "muy común" en pacientes que utilizan fármacos de la familia de los ISRS (Inhibidores Selectivos de Recaptación de Serotonina)?
+A) Disfunción sexual.
+B) Fallo hepático fulminante.
+C) Aumento desmedido del apetito por carne.
+D) Taquicardia supraventricular constante.
+
+Respuesta correcta: A) Disfunción sexual.
+Justificación: En la lámina "Efectos Adversos Generales", la sección sobre los ISRS señala la "Disfunción sexual" con la aclaratoria entre paréntesis de que es "(muy común)".
+
+PREGUNTA 20
+En la revisión bibliográfica del artículo "Nuevos fármacos en psiquiatría" incluida al final de la presentación, ¿qué medicamentos recientes se aprueban e introducen mecanismos innovadores para el tratamiento de la "depresión posparto"?
+A) Xanomelina-trospio
+B) Paroxetina y Fluoxetina a dosis pediátricas
+C) Brexanolona y Zuranolona
+D) Trazodona y Selegilina
+
+Respuesta correcta: C) Brexanolona y Zuranolona
+Justificación: La diapositiva "Nuevos Fármacos en Psiquiatría" cita el artículo de Manrique Sauma Montes de Oca y menciona explícitamente "brexanolona y zuranolona para depresión posparto".
+
+
