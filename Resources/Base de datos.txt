@@ -442,5 +442,443 @@ Respuesta correcta: A) Citocromo P450 (CYP450)
 
 Justificación: El artículo sobre el ácido araquidónico ("Aporte nuevo") señala que este también se metaboliza por vías como el citocromo P450, lo cual genera compuestos bioactivos implicados en la regulación de la presión arterial y la función renal.
 
+PREGUNTA 1
+¿Qué enzima se encarga de la degradación de la acetilcolina en la hendidura sináptica?
+A) Colina acetiltransferasa
+B) Acetilcolinesterasa (AChE)
+C) Tirosina hidroxilasa
+D) Monoamino oxidasa (MAO)
+
+Respuesta correcta: B) Acetilcolinesterasa (AChE)
+
+Justificación: El documento especifica en la lámina de "Síntesis y degradación de la Acetilcolina" que la acetilcolinesterasa (AChE) es la enzima que degrada rápidamente la acetilcolina en la hendidura sináptica, dividiéndola en acetato y colina.
+
+PREGUNTA 2
+¿Cuál de los siguientes receptores es un receptor ionotrópico (canal iónico) activado por acetilcolina?
+A) Receptor muscarínico M1
+B) Receptor adrenérgico alfa-1
+C) Receptor nicotínico (Nm o Nn)
+D) Receptor muscarínico M3
+
+Respuesta correcta: C) Receptor nicotínico (Nm o Nn)
+
+Justificación: La presentación explica que los receptores nicotínicos son receptores ionotrópicos (canales iónicos dependientes de ligando), mientras que los muscarínicos están acoplados a proteínas G.
+
+PREGUNTA 3
+¿Dónde se localizan principalmente los receptores muscarínicos M2 y qué función cumplen?
+A) En el corazón, donde disminuyen la frecuencia cardíaca.
+B) En las glándulas exocrinas y músculo liso, donde aumentan la secreción y contracción.
+C) En el sistema nervioso central, donde mejoran la memoria.
+D) En el músculo esquelético, donde facilitan la contracción voluntaria.
+
+Respuesta correcta: A) En el corazón, donde disminuyen la frecuencia cardíaca.
+
+Justificación: La tabla de "Receptores Muscarínicos" detalla que el subtipo M2 se ubica en el corazón (tejido nodal y auricular) y su acción principal es la disminución de la frecuencia cardíaca (efecto cronotrópico negativo).
+
+PREGUNTA 4
+¿Qué mecanismo de acción tienen los fármacos agonistas colinérgicos indirectos?
+A) Se unen directamente y activan a los receptores muscarínicos.
+B) Bloquean los receptores nicotínicos musculares.
+C) Inhiben a la enzima acetilcolinesterasa, aumentando los niveles de acetilcolina endógena.
+D) Estimulan la liberación de noradrenalina.
+
+Respuesta correcta: C) Inhiben a la enzima acetilcolinesterasa, aumentando los niveles de acetilcolina endógena.
+
+Justificación: El esquema de clasificación de fármacos colinérgicos indica que los parasimpaticomiméticos (agonistas) indirectos actúan inhibiendo a la colinesterasa, lo que resulta en un aumento de la acetilcolina en la sinapsis.
+
+PREGUNTA 5
+¿Cuál de los siguientes es un fármaco agonista colinérgico directo utilizado comúnmente para el tratamiento de la retención urinaria posparto o posoperatoria?
+A) Atropina
+B) Neostigmina
+C) Betanecol
+D) Escopolamina
+
+Respuesta correcta: C) Betanecol
+
+Justificación: La tabla de "Agonistas Directos" menciona al Betanecol (un éster de colina), indicando que su uso clínico principal es el tratamiento de la retención urinaria e íleo paralítico (atonía gastrointestinal).
+
+PREGUNTA 6
+¿Cuál de estos fármacos inhibidores de la acetilcolinesterasa (agonistas indirectos) se utiliza de manera reversible y penetra la barrera hematoencefálica, siendo útil en la intoxicación por atropina?
+A) Neostigmina
+B) Fisostigmina
+C) Edrofonio
+D) Ecotiofato
+
+Respuesta correcta: B) Fisostigmina
+
+Justificación: La lámina sobre "Agonistas Indirectos Reversibles" señala que la Fisostigmina es una amina terciaria que penetra la barrera hematoencefálica (BHE) y se utiliza como antídoto en la intoxicación por anticolinérgicos (como la atropina).
+
+PREGUNTA 7
+La intoxicación por organofosforados (agonistas indirectos irreversibles) produce el síndrome SLUDGE. ¿Qué significa la "E" en este acrónimo?
+A) Edema
+B) Espasmo
+C) Emesis (vómito)
+D) Eritema
+
+Respuesta correcta: C) Emesis (vómito)
+
+Justificación: En la diapositiva del "Síndrome Colinérgico (SLUDGE)", se detalla que la "E" corresponde a Emesis (vómito).
+
+PREGUNTA 8
+¿Qué fármaco anticolinérgico (antagonista muscarínico) se utiliza en oftalmología para producir midriasis (dilatación pupilar) y ciclopejía para exámenes de fondo de ojo?
+A) Pilocarpina
+B) Tropicamida
+C) Ipratropio
+D) Donepezilo
+
+Respuesta correcta: B) Tropicamida
+
+Justificación: La tabla de "Antagonistas Muscarínicos" lista a la Tropicamida (y ciclopentolato) como fármacos de uso tópico oftálmico para producir midriasis y ciclopejía.
+
+PREGUNTA 9
+¿Qué efecto produce la atropina a nivel del sistema cardiovascular en dosis terapéuticas?
+A) Bradicardia severa
+B) Vasoconstricción periférica
+C) Taquicardia (bloqueo del tono vagal)
+D) Disminución del gasto cardíaco
+
+Respuesta correcta: C) Taquicardia (bloqueo del tono vagal)
+
+Justificación: El documento indica que los antagonistas muscarínicos como la atropina producen efectos a nivel cardiovascular al bloquear los receptores M2, lo que resulta en taquicardia por el bloqueo del tono vagal.
+
+PREGUNTA 10
+El Ipratropio y el Tiotropio son antagonistas muscarínicos. ¿Cuál es su principal indicación clínica?
+A) Tratamiento de la vejiga hiperactiva
+B) Tratamiento del asma y la Enfermedad Pulmonar Obstructiva Crónica (EPOC) por su efecto broncodilatador
+C) Tratamiento de la miastenia gravis
+D) Tratamiento del glaucoma de ángulo abierto
+
+Respuesta correcta: B) Tratamiento del asma y la Enfermedad Pulmonar Obstructiva Crónica (EPOC) por su efecto broncodilatador
+
+Justificación: En la tabla de "Antagonistas Muscarínicos", se indica que el Ipratropio y el Tiotropio se administran por vía inhalatoria y producen broncodilatación, siendo su uso clínico el asma y la EPOC.
+
+PREGUNTA 11
+¿Qué característica farmacocinética hace que la Escopolamina sea utilizada para la prevención de la cinetosis (mareo por movimiento)?
+A) Su incapacidad para cruzar la barrera hematoencefálica
+B) Su rápida excreción renal sin metabolizarse
+C) Su excelente penetración en el sistema nervioso central (SNC)
+D) Su administración exclusiva por vía intravenosa
+
+Respuesta correcta: C) Su excelente penetración en el sistema nervioso central (SNC)
+
+Justificación: El documento destaca a la Escopolamina como un antagonista muscarínico con excelente penetración en el SNC (a diferencia de otros como el ipratropio o los de amonio cuaternario), lo que le permite actuar a nivel central para prevenir la cinetosis.
+
+PREGUNTA 12
+En el tratamiento del síndrome anticolinérgico, a menudo descrito con la frase "Rojo como un tomate, seco como un hueso...", ¿cuál es el antídoto específico recomendado?
+A) Atropina
+B) Pralidoxima
+C) Fisostigmina
+D) Neostigmina
+
+Respuesta correcta: C) Fisostigmina
+
+Justificación: En la diapositiva "Síndrome Anticolinérgico", se especifica que el tratamiento específico es la Fisostigmina (porque cruza la BHE), para inhibir la acetilcolinesterasa, aumentar la acetilcolina y revertir el bloqueo muscarínico.
+
+PREGUNTA 13
+¿A qué grupo de fármacos pertenece el Edrofonio y para qué se utilizaba históricamente (test de Tensilon)?
+A) Agonista colinérgico directo / Para glaucoma
+B) Antagonista muscarínico / Para cinetosis
+C) Inhibidor de la acetilcolinesterasa reversible de acción muy corta / Para el diagnóstico de miastenia gravis
+D) Reactivador de la colinesterasa / Para intoxicación por organofosforados
+
+Respuesta correcta: C) Inhibidor de la acetilcolinesterasa reversible de acción muy corta / Para el diagnóstico de miastenia gravis
+
+Justificación: La tabla de "Agonistas Indirectos Reversibles" menciona al Edrofonio, describiéndolo como de acción muy corta (alcohol simple) y cuyo uso clínico clásico es el diagnóstico de la miastenia gravis (Test de Tensilon).
+
+PREGUNTA 14
+Los reactivadores de la colinesterasa (oximas) se utilizan en la intoxicación por organofosforados. ¿Cuál es un ejemplo de este tipo de fármaco?
+A) Pralidoxima (PAM)
+B) Pilocarpina
+C) Piridostigmina
+D) Propantelina
+
+Respuesta correcta: A) Pralidoxima (PAM)
+
+Justificación: En la sección del "Síndrome Colinérgico (Organofosforados)", se indica que el tratamiento específico incluye la Pralidoxima, que actúa como un reactivador de la colinesterasa.
+
+PREGUNTA 15
+¿Qué efecto tienen los agonistas colinérgicos sobre las glándulas exocrinas (sudoríparas, salivales, lagrimales)?
+A) Disminuyen notablemente su secreción
+B) Aumentan su secreción (diaforesis, sialorrea, lagrimeo)
+C) Cambian la composición iónica sin alterar el volumen
+D) Bloquean la secreción temporalmente
+
+Respuesta correcta: B) Aumentan su secreción (diaforesis, sialorrea, lagrimeo)
+
+Justificación: El documento indica que la estimulación de los receptores muscarínicos (como el M3) en las glándulas exocrinas produce un aumento de la secreción, manifestándose como sudoración (diaforesis), salivación (sialorrea) y lagrimeo, que son parte del síndrome SLUDGE.
+
+PREGUNTA 16
+¿Cuál de los siguientes fármacos es un antiespasmódico anticolinérgico utilizado para el tratamiento de trastornos gastrointestinales (como el síndrome de intestino irritable)?
+A) Betanecol
+B) Donepezilo
+C) Butilbromuro de hioscina (Butilescopolamina)
+D) Carbacol
+
+Respuesta correcta: C) Butilbromuro de hioscina (Butilescopolamina)
+
+Justificación: La tabla de "Antagonistas Muscarínicos" detalla que el Butilbromuro de hioscina (derivado sintético de la escopolamina) se utiliza clínicamente como antiespasmódico para el dolor tipo cólico biliar, renal y gastrointestinal.
+
+PREGUNTA 17
+¿Por qué los anticolinérgicos están contraindicados (o deben usarse con extrema precaución) en pacientes con hiperplasia prostática benigna (HPB)?
+A) Porque pueden provocar retención aguda de orina al relajar el músculo detrusor y contraer el esfínter
+B) Porque pueden inducir contracciones vesicales dolorosas
+C) Porque pueden aumentar el tamaño de la próstata a largo plazo
+D) Porque causan poliuria severa
+
+Respuesta correcta: A) Porque pueden provocar retención aguda de orina al relajar el músculo detrusor y contraer el esfínter
+
+Justificación: En la sección de "Contraindicaciones de los Antagonistas Muscarínicos", se incluye la hiperplasia prostática benigna (HPB) debido al riesgo de retención aguda de orina, ya que estos fármacos relajan el músculo detrusor y contraen el trígono/esfínter.
+
+PREGUNTA 18
+El Donepezilo, la Rivastigmina y la Galantamina son fármacos colinérgicos. ¿Cuál es una de sus indicaciones clínicas principales (especialmente del Donepezilo y Galantamina)?
+A) Revertir el bloqueo neuromuscular en anestesia
+B) Tratamiento de los síntomas de la enfermedad de Alzheimer (mejoran la función cognitiva)
+C) Tratamiento de urgencia del asma severo
+D) Reducción de la presión intraocular en glaucoma de ángulo cerrado
+
+Respuesta correcta: B) Tratamiento de los síntomas de la enfermedad de Alzheimer (mejoran la función cognitiva)
+
+Justificación: En la tabla de "Agonistas Indirectos Reversibles", se indica que fármacos como el Donepezilo (y la Galantamina, aunque no esté explícita en la tabla, el Donepezilo sí lo está) se utilizan en el tratamiento de la enfermedad de Alzheimer al cruzar la BHE y aumentar la acetilcolina central.
+
+PREGUNTA 19
+¿Qué subtipo de receptor muscarínico es el responsable principal de la broncoconstricción y el aumento de la secreción bronquial?
+A) M1
+B) M2
+C) M3
+D) M4
+
+Respuesta correcta: C) M3
+
+Justificación: La tabla de "Receptores Muscarínicos" señala que el subtipo M3, que actúa a través de las proteínas Gq (aumento de IP3 y DAG), se localiza en el músculo liso y glándulas exocrinas, siendo responsable de la contracción del músculo liso bronquial y el aumento de la secreción.
+
+PREGUNTA 20
+En el manejo de la intoxicación por organofosforados, además de la pralidoxima, ¿qué fármaco es el tratamiento de primera línea para revertir los efectos muscarínicos (como la broncorrea y la bradicardia)?
+A) Pilocarpina
+B) Neostigmina
+C) Atropina
+D) Succinilcolina
+
+Respuesta correcta: C) Atropina
+
+Justificación: En la lámina del "Síndrome Colinérgico (Organofosforados)", bajo "Tratamiento específico", se indica a la Atropina en dosis altas y repetidas para revertir los efectos muscarínicos graves (bradicardia, secreciones), junto con la pralidoxima para los efectos nicotínicos.
 
 
+**PREGUNTA 1**
+¿Qué enzima se encarga de la degradación de la acetilcolina en la hendidura sináptica?
+A) Colina acetiltransferasa
+B) Acetilcolinesterasa (AChE)
+C) Tirosina hidroxilasa
+D) Monoamino oxidasa (MAO)
+
+* **Respuesta correcta:** B) Acetilcolinesterasa (AChE)
+
+* **Justificación:** El documento especifica en la lámina de "Síntesis y degradación de la Acetilcolina" que la acetilcolinesterasa (AChE) es la enzima que degrada rápidamente la acetilcolina en la hendidura sináptica, dividiéndola en acetato y colina.
+
+**PREGUNTA 2**
+¿Cuál de los siguientes receptores es un receptor ionotrópico (canal iónico) activado por acetilcolina?
+A) Receptor muscarínico M1
+B) Receptor adrenérgico alfa-1
+C) Receptor nicotínico (Nm o Nn)
+D) Receptor muscarínico M3
+
+* **Respuesta correcta:** C) Receptor nicotínico (Nm o Nn)
+
+* **Justificación:** La presentación explica que los receptores nicotínicos son receptores ionotrópicos (canales iónicos dependientes de ligando), mientras que los muscarínicos están acoplados a proteínas G.
+
+**PREGUNTA 3**
+¿Dónde se localizan principalmente los receptores muscarínicos M2 y qué función cumplen?
+A) En el corazón, donde disminuyen la frecuencia cardíaca.
+B) En las glándulas exocrinas y músculo liso, donde aumentan la secreción y contracción.
+C) En el sistema nervioso central, donde mejoran la memoria.
+D) En el músculo esquelético, donde facilitan la contracción voluntaria.
+
+* **Respuesta correcta:** A) En el corazón, donde disminuyen la frecuencia cardíaca.
+
+* **Justificación:** La tabla de "Receptores Muscarínicos" detalla que el subtipo M2 se ubica en el corazón (tejido nodal y auricular) y su acción principal es la disminución de la frecuencia cardíaca (efecto cronotrópico negativo).
+
+**PREGUNTA 4**
+¿Qué mecanismo de acción tienen los fármacos agonistas colinérgicos indirectos?
+A) Se unen directamente y activan a los receptores muscarínicos.
+B) Bloquean los receptores nicotínicos musculares.
+C) Inhiben a la enzima acetilcolinesterasa, aumentando los niveles de acetilcolina endógena.
+D) Estimulan la liberación de noradrenalina.
+
+* **Respuesta correcta:** C) Inhiben a la enzima acetilcolinesterasa, aumentando los niveles de acetilcolina endógena.
+
+* **Justificación:** El esquema de clasificación de fármacos colinérgicos indica que los parasimpaticomiméticos (agonistas) indirectos actúan inhibiendo a la colinesterasa, lo que resulta en un aumento de la acetilcolina en la sinapsis.
+
+**PREGUNTA 5**
+¿Cuál de los siguientes es un fármaco agonista colinérgico directo utilizado comúnmente para el tratamiento de la retención urinaria posparto o posoperatoria?
+A) Atropina
+B) Neostigmina
+C) Betanecol
+D) Escopolamina
+
+* **Respuesta correcta:** C) Betanecol
+
+* **Justificación:** La tabla de "Agonistas Directos" menciona al Betanecol (un éster de colina), indicando que su uso clínico principal es el tratamiento de la retención urinaria e íleo paralítico (atonía gastrointestinal).
+
+**PREGUNTA 6**
+¿Cuál de estos fármacos inhibidores de la acetilcolinesterasa (agonistas indirectos) se utiliza de manera reversible y penetra la barrera hematoencefálica, siendo útil en la intoxicación por atropina?
+A) Neostigmina
+B) Fisostigmina
+C) Edrofonio
+D) Ecotiofato
+
+* **Respuesta correcta:** B) Fisostigmina
+
+* **Justificación:** La lámina sobre "Agonistas Indirectos Reversibles" señala que la Fisostigmina es una amina terciaria que penetra la barrera hematoencefálica (BHE) y se utiliza como antídoto en la intoxicación por anticolinérgicos (como la atropina).
+
+**PREGUNTA 7**
+La intoxicación por organofosforados (agonistas indirectos irreversibles) produce el síndrome SLUDGE. ¿Qué significa la "E" en este acrónimo?
+A) Edema
+B) Espasmo
+C) Emesis (vómito)
+D) Eritema
+
+* **Respuesta correcta:** C) Emesis (vómito)
+
+* **Justificación:** En la diapositiva del "Síndrome Colinérgico (SLUDGE)", se detalla que la "E" corresponde a Emesis (vómito).
+
+**PREGUNTA 8**
+¿Qué fármaco anticolinérgico (antagonista muscarínico) se utiliza en oftalmología para producir midriasis (dilatación pupilar) y ciclopejía para exámenes de fondo de ojo?
+A) Pilocarpina
+B) Tropicamida
+C) Ipratropio
+D) Donepezilo
+
+* **Respuesta correcta:** B) Tropicamida
+
+* **Justificación:** La tabla de "Antagonistas Muscarínicos" lista a la Tropicamida (y ciclopentolato) como fármacos de uso tópico oftálmico para producir midriasis y ciclopejía.
+
+**PREGUNTA 9**
+¿Qué efecto produce la atropina a nivel del sistema cardiovascular en dosis terapéuticas?
+A) Bradicardia severa
+B) Vasoconstricción periférica
+C) Taquicardia (bloqueo del tono vagal)
+D) Disminución del gasto cardíaco
+
+* **Respuesta correcta:** C) Taquicardia (bloqueo del tono vagal)
+
+* **Justificación:** El documento indica que los antagonistas muscarínicos como la atropina producen efectos a nivel cardiovascular al bloquear los receptores M2, lo que resulta en taquicardia por el bloqueo del tono vagal.
+
+**PREGUNTA 10**
+El Ipratropio y el Tiotropio son antagonistas muscarínicos. ¿Cuál es su principal indicación clínica?
+A) Tratamiento de la vejiga hiperactiva
+B) Tratamiento del asma y la Enfermedad Pulmonar Obstructiva Crónica (EPOC) por su efecto broncodilatador
+C) Tratamiento de la miastenia gravis
+D) Tratamiento del glaucoma de ángulo abierto
+
+* **Respuesta correcta:** B) Tratamiento del asma y la Enfermedad Pulmonar Obstructiva Crónica (EPOC) por su efecto broncodilatador
+
+* **Justificación:** En la tabla de "Antagonistas Muscarínicos", se indica que el Ipratropio y el Tiotropio se administran por vía inhalatoria y producen broncodilatación, siendo su uso clínico el asma y la EPOC.
+
+**PREGUNTA 11**
+¿Qué característica farmacocinética hace que la Escopolamina sea utilizada para la prevención de la cinetosis (mareo por movimiento)?
+A) Su incapacidad para cruzar la barrera hematoencefálica
+B) Su rápida excreción renal sin metabolizarse
+C) Su excelente penetración en el sistema nervioso central (SNC)
+D) Su administración exclusiva por vía intravenosa
+
+* **Respuesta correcta:** C) Su excelente penetración en el sistema nervioso central (SNC)
+
+* **Justificación:** El documento destaca a la Escopolamina como un antagonista muscarínico con excelente penetración en el SNC (a diferencia de otros como el ipratropio o los de amonio cuaternario), lo que le permite actuar a nivel central para prevenir la cinetosis.
+
+**PREGUNTA 12**
+En el tratamiento del síndrome anticolinérgico, a menudo descrito con la frase "Rojo como un tomate, seco como un hueso...", ¿cuál es el antídoto específico recomendado?
+A) Atropina
+B) Pralidoxima
+C) Fisostigmina
+D) Neostigmina
+
+* **Respuesta correcta:** C) Fisostigmina
+
+* **Justificación:** En la diapositiva "Síndrome Anticolinérgico", se especifica que el tratamiento específico es la Fisostigmina (porque cruza la BHE), para inhibir la acetilcolinesterasa, aumentar la acetilcolina y revertir el bloqueo muscarínico.
+
+**PREGUNTA 13**
+¿A qué grupo de fármacos pertenece el Edrofonio y para qué se utilizaba históricamente (test de Tensilon)?
+A) Agonista colinérgico directo / Para glaucoma
+B) Antagonista muscarínico / Para cinetosis
+C) Inhibidor de la acetilcolinesterasa reversible de acción muy corta / Para el diagnóstico de miastenia gravis
+D) Reactivador de la colinesterasa / Para intoxicación por organofosforados
+
+* **Respuesta correcta:** C) Inhibidor de la acetilcolinesterasa reversible de acción muy corta / Para el diagnóstico de miastenia gravis
+
+* **Justificación:** La tabla de "Agonistas Indirectos Reversibles" menciona al Edrofonio, describiéndolo como de acción muy corta (alcohol simple) y cuyo uso clínico clásico es el diagnóstico de la miastenia gravis (Test de Tensilon).
+
+**PREGUNTA 14**
+Los reactivadores de la colinesterasa (oximas) se utilizan en la intoxicación por organofosforados. ¿Cuál es un ejemplo de este tipo de fármaco?
+A) Pralidoxima (PAM)
+B) Pilocarpina
+C) Piridostigmina
+D) Propantelina
+
+* **Respuesta correcta:** A) Pralidoxima (PAM)
+
+* **Justificación:** En la sección del "Síndrome Colinérgico (Organofosforados)", se indica que el tratamiento específico incluye la Pralidoxima, que actúa como un reactivador de la colinesterasa.
+
+**PREGUNTA 15**
+¿Qué efecto tienen los agonistas colinérgicos sobre las glándulas exocrinas (sudoríparas, salivales, lagrimales)?
+A) Disminuyen notablemente su secreción
+B) Aumentan su secreción (diaforesis, sialorrea, lagrimeo)
+C) Cambian la composición iónica sin alterar el volumen
+D) Bloquean la secreción temporalmente
+
+* **Respuesta correcta:** B) Aumentan su secreción (diaforesis, sialorrea, lagrimeo)
+
+* **Justificación:** El documento indica que la estimulación de los receptores muscarínicos (como el M3) en las glándulas exocrinas produce un aumento de la secreción, manifestándose como sudoración (diaforesis), salivación (sialorrea) y lagrimeo, que son parte del síndrome SLUDGE.
+
+**PREGUNTA 16**
+¿Cuál de los siguientes fármacos es un antiespasmódico anticolinérgico utilizado para el tratamiento de trastornos gastrointestinales (como el síndrome de intestino irritable)?
+A) Betanecol
+B) Donepezilo
+C) Butilbromuro de hioscina (Butilescopolamina)
+D) Carbacol
+
+* **Respuesta correcta:** C) Butilbromuro de hioscina (Butilescopolamina)
+
+* **Justificación:** La tabla de "Antagonistas Muscarínicos" detalla que el Butilbromuro de hioscina (derivado sintético de la escopolamina) se utiliza clínicamente como antiespasmódico para el dolor tipo cólico biliar, renal y gastrointestinal.
+
+**PREGUNTA 17**
+¿Por qué los anticolinérgicos están contraindicados (o deben usarse con extrema precaución) en pacientes con hiperplasia prostática benigna (HPB)?
+A) Porque pueden provocar retención aguda de orina al relajar el músculo detrusor y contraer el esfínter
+B) Porque pueden inducir contracciones vesicales dolorosas
+C) Porque pueden aumentar el tamaño de la próstata a largo plazo
+D) Porque causan poliuria severa
+
+* **Respuesta correcta:** A) Porque pueden provocar retención aguda de orina al relajar el músculo detrusor y contraer el esfínter
+
+* **Justificación:** En la sección de "Contraindicaciones de los Antagonistas Muscarínicos", se incluye la hiperplasia prostática benigna (HPB) debido al riesgo de retención aguda de orina, ya que estos fármacos relajan el músculo detrusor y contraen el trígono/esfínter.
+
+**PREGUNTA 18**
+El Donepezilo, la Rivastigmina y la Galantamina son fármacos colinérgicos. ¿Cuál es una de sus indicaciones clínicas principales (especialmente del Donepezilo y Galantamina)?
+A) Revertir el bloqueo neuromuscular en anestesia
+B) Tratamiento de los síntomas de la enfermedad de Alzheimer (mejoran la función cognitiva)
+C) Tratamiento de urgencia del asma severo
+D) Reducción de la presión intraocular en glaucoma de ángulo cerrado
+
+* **Respuesta correcta:** B) Tratamiento de los síntomas de la enfermedad de Alzheimer (mejoran la función cognitiva)
+
+* **Justificación:** En la tabla de "Agonistas Indirectos Reversibles", se indica que fármacos como el Donepezilo (y la Galantamina, aunque no esté explícita en la tabla, el Donepezilo sí lo está) se utilizan en el tratamiento de la enfermedad de Alzheimer al cruzar la BHE y aumentar la acetilcolina central.
+
+**PREGUNTA 19**
+¿Qué subtipo de receptor muscarínico es el responsable principal de la broncoconstricción y el aumento de la secreción bronquial?
+A) M1
+B) M2
+C) M3
+D) M4
+
+* **Respuesta correcta:** C) M3
+
+* **Justificación:** La tabla de "Receptores Muscarínicos" señala que el subtipo M3, que actúa a través de las proteínas Gq (aumento de IP3 y DAG), se localiza en el músculo liso y glándulas exocrinas, siendo responsable de la contracción del músculo liso bronquial y el aumento de la secreción.
+
+**PREGUNTA 20**
+En el manejo de la intoxicación por organofosforados, además de la pralidoxima, ¿qué fármaco es el tratamiento de primera línea para revertir los efectos muscarínicos (como la broncorrea y la bradicardia)?
+A) Pilocarpina
+B) Neostigmina
+C) Atropina
+D) Succinilcolina
+
+* **Respuesta correcta:** C) Atropina
+
+* **Justificación:** En la lámina del "Síndrome Colinérgico (Organofosforados)", bajo "Tratamiento específico", se indica a la Atropina en dosis altas y repetidas para revertir los efectos muscarínicos graves (bradicardia, secreciones), junto con la pralidoxima para los efectos nicotínicos.
